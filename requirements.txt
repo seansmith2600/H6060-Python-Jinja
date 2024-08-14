@@ -1,0 +1,2 @@
+MarkupSafe>=0.23
+Babel>=0.8
